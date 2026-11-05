@@ -6,6 +6,7 @@ notebooks/figures/
 practice/figures/
 invest/figures/
 *.pdf
+!data/invest.pdf
 
 chroma_db/
 
