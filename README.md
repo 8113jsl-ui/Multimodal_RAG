@@ -42,7 +42,7 @@ API 키는 프로젝트 최상위 `.env`에 직접 입력합니다.
 
 
 
-git clone https://github.com/8113jsl-ui/UnstructuredParser.git
+git clone https://github.com/8113jsl-ui/Multimodal_RAG.git
 cd multimodal-rag
 
 # 가상환경 생성 및 활성화
