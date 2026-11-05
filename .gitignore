@@ -1,0 +1,22 @@
+.venv/
+.env
+
+data/figures/
+notebooks/figures/
+practice/figures/
+invest/figures/
+*.pdf
+
+chroma_db/
+
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+.vscode/
+.idea/
+.DS_Store
+
+# pkl 파일
+processed/
+*.pkl
