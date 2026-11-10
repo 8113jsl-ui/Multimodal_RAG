@@ -6,7 +6,6 @@ notebooks/figures/
 practice/figures/
 invest/figures/
 *.pdf
-!data/invest.pdf
 
 chroma_db/
 
@@ -21,3 +20,7 @@ __pycache__/
 # pkl 파일
 processed/
 *.pkl
+
+# 제출 제외 노트북
+practice/02_요약생성__연습본.ipynb
+practice/01_데이터추출__연습본_ver_서유미강사님.ipynb
