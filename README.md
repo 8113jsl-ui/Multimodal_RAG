@@ -267,7 +267,7 @@ cp .env.example .env                # 윈도우: copy .env.example .env
 
 VS Code에서는 Python 인터프리터와 노트북 커널을 `.venv\Scripts\python.exe`로 선택한다.
 
-PDF 표·이미지 추출(`hi_res`)에는 **Poppler**와 **Tesseract** 설치가 필요하다. `python settings.py`로 설치 여부를 점검할 수 있다.
+PDF 표·이미지 추출(`hi_res`)에는 **Poppler**와 **Tesseract** 설치가 필요하다. 설치 후 터미널에서 `pdftoppm -h`, `tesseract --version` 이 출력되면 정상이다.
 
 ### 2. PDF 준비
 
@@ -305,7 +305,6 @@ Multimodal_RAG/                     # GitHub 저장소 기준
 ├── README.md                       # 프로젝트 개요
 ├── requirements.txt                # 필수 패키지
 ├── requirements.lock.txt           # 버전 고정 목록
-├── settings.py                     # 환경 점검 스크립트 (Poppler·Tesseract·패키지)
 ├── docs/
 │   └── images/
 │       └── evidence_cumulative_gain.jpg   # Before/After 근거 그래프
