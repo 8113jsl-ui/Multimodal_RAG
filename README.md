@@ -101,6 +101,12 @@ flowchart LR
 
 ---
 
+
+## Before & After : 일반 RAG vs 멀티모달 RAG
+<img width="2346" height="569" alt="Image" src="https://github.com/user-attachments/assets/0f119b1b-5cd8-439f-bddc-df86d7baacbf" />
+
+---
+
 ## 💬 질의응답 결과 (5건)
 
 멀티모달 체인에 질문 5개를 넣고, 검색된 원본 종류와 답변을 아래와 같이 정리하였다.
