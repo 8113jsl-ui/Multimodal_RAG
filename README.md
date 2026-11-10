@@ -36,7 +36,7 @@ data/invest.pdf
 ## Before & After : 일반 RAG vs 멀티모달 RAG
 <img width="2346" height="569" alt="Image" src="https://github.com/user-attachments/assets/0f119b1b-5cd8-439f-bddc-df86d7baacbf" />
 
-
+---
 
 ## 💬 질의응답 결과 (5건)
 
