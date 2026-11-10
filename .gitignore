@@ -2,10 +2,11 @@
 .env
 
 data/figures/
+data/*.pdf
+!data/invest.pdf
 notebooks/figures/
 practice/figures/
 invest/figures/
-*.pdf
 
 chroma_db/
 
